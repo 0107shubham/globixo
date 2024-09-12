@@ -3,9 +3,7 @@ import React from "react";
 const BussinesDesk = () => {
   return (
     <div className="py-4  px-5  my-10 hidden xl:flex flex-col gap-1">
-      <p className="text-[24px] text-black font-bold my-3">
-        Company's Bussiness
-      </p>
+      <p className="text-[24px] text-black font-bold my-3">Company Bussiness</p>
       <p className="my-2 text-gray-700  font-semibold text-[20px]">
         Company Type
       </p>

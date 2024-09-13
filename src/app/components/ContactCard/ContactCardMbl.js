@@ -14,16 +14,16 @@ const ContactCardMbl = () => {
         </h2>
 
         {/* Name */}
-        <p className="text-gray-800  text-[18px]  font-semibold">Name:</p>
-        <p className="text-gray-600  text-[16px] ">John Doe</p>
+        <p className="text-gray-800  text-[16px]  font-semibold">Name:</p>
+        <p className="text-gray-600  text-[14px] ">John Doe</p>
 
         {/* Email */}
-        <p className="text-gray-800  text-[18px]  font-semibold mt-4">Email:</p>
-        <p className="text-gray-600 text-[16px]  mt-1">johndoe@email.com</p>
+        <p className="text-gray-800  text-[16px]  font-semibold mt-4">Email:</p>
+        <p className="text-gray-600 text-[13px]  mt-1">johndoe@email.com</p>
 
         {/* Phone */}
-        <p className="text-gray-800  text-[18px]  font-semibold mt-4">Phone:</p>
-        <p className="text-gray-600 text-[16px]  mt-1">+123 456 7890</p>
+        <p className="text-gray-800  text-[16px]  font-semibold mt-4">Phone:</p>
+        <p className="text-gray-600 text-[12px]  mt-1">+123 456 7890</p>
 
         {/* Address */}
         <p className="text-gray-800  text-[18px]  font-semibold mt-4">

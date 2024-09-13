@@ -2,6 +2,9 @@ import React from "react";
 // Importing from a local folder may not work well with next/image for background, so I'll comment it for now
 import johndeer from "../../Assetes/johndeer.jpeg";
 import Image from "next/image";
+import { TbWorld } from "react-icons/tb";
+import { CgCalendarDates } from "react-icons/cg";
+import { FaMapMarker } from "react-icons/fa";
 
 const DesktopView = () => {
   return (
@@ -52,14 +55,19 @@ const DesktopView = () => {
           </p>
         </div>
         <div className="flex flex-row gap-4 ">
-          <div>New Delhi, India</div>
+          <div className="flex justify-center items-center gap-2">
+            <TbWorld className="text-[24px] text-gray-200" />
+            <p className="text-gray-200">New Delhi, India</p>
+          </div>
           <div className="h-[30px] w-[2px] bg-gray-200 mx-4"></div>
-          <div>
+          <div className="flex justify-center items-center gap-2">
+            <CgCalendarDates className="text-[24px] text-gray-200" />
             <p className="text-gray-200">12th Jul 2024 - 15th July,2024 </p>
           </div>
           <div className="h-[30px] w-[2px] bg-gray-200 mx-4"></div>
-          <div>
-            <p className="text-gray-200">Haal 2,Booth 23</p>
+          <div className="flex justify-center items-center gap-2">
+            <FaMapMarker className="text-[24px] text-gray-200" />
+            <p className="text-gray-200">Haal 2,Booth 23 </p>
           </div>
         </div>
 

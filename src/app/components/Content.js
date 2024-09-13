@@ -27,22 +27,22 @@ const Content = () => {
 
       <div className="xl:hidden ">
         {" "}
-        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 py-2">
+        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 py-2 ">
           <ContactCard />
           <Bussiness />
         </div>
-        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 my-1 ">
+        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 mt-1 ">
           <OverView />
           <Media />
         </div>
-        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2  my-1">
+        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2  mt-2">
           <Files />
           <Exibition />
         </div>
-        <div className="w-full grid grid-cols-1    my-1 ">
+        <div className="w-full grid grid-cols-1    mt-2 ">
           <Member />
         </div>
-        <div className="w-full grid grid-cols-1   my-1 ">
+        <div className="w-full grid grid-cols-1   mt-2 ">
           <Partner />
         </div>
       </div>

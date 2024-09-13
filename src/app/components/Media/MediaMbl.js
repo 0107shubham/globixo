@@ -4,6 +4,8 @@ import ReactPlayer from "react-player";
 import Image from "next/image";
 import Exhibition_opening from "../../Assetes/Exhibition_opening.jpg";
 import dynamic from "next/dynamic";
+import fp1 from "../../Assetes/fp1.jpeg";
+import fp2 from "../../Assetes/fp2.jpeg";
 
 const MediaMbl = () => {
   return (
@@ -22,16 +24,8 @@ const MediaMbl = () => {
           alt={Exhibition_opening}
           className="w-full  aspect-video "
         />{" "}
-        <Image
-          src={Exhibition_opening}
-          alt={Exhibition_opening}
-          className="w-full aspect-video"
-        />
-        <Image
-          src={Exhibition_opening}
-          alt={Exhibition_opening}
-          className="w-full aspect-video"
-        />
+        <Image src={fp1} alt={fp1} className="w-full aspect-video" />
+        <Image src={fp2} alt={fp2} className="w-full aspect-video" />
       </div>
 
       <div className="">

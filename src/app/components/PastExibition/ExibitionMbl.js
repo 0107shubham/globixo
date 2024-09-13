@@ -90,12 +90,6 @@ const ExibitionMbl = () => {
           </div>
         </div>
       </div>
-      <div>
-        {" "}
-        <p className="text-purple-600 text-[22px] text-center underline">
-          Show All
-        </p>
-      </div>
     </div>
   );
 };

@@ -95,11 +95,6 @@ const ContactCardMbl = () => {
           </a>
         </div>
       </div>
-
-      {/* Contact Button */}
-      <button className="w-full bg-purple-600  text-[24px]  text-white py-2 mt-6 rounded-lg hover:bg-purple-700">
-        Contact us
-      </button>
     </div>
   );
 };

@@ -73,7 +73,7 @@ const ContactCardDesk = () => {
 
       {/* Social Media Icons */}
 
-      <button className=" bottom-2 border-gray-900 bg-purple-600 py-2 my-4 w-[350px]">
+      <button className=" bottom-2 text-white text-[22px] rounded-md border-gray-900 bg-purple-600 py-2 my-4 w-[350px]">
         Contact us
       </button>
     </div>

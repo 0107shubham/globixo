@@ -15,16 +15,16 @@ const ExibitionMbl = () => {
       </h1>
       <div className="flex flex-col gap-6">
         <div className="flex gap-5 px-3">
-          <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
+          <div className="bg-slate-600 p-2 rounded-full h-fit w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoAmplify className="h-[35px] w-[35px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-800">
+            <p className="text-[16px] sm:text-[18px] font-medium text-gray-800">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[14px] font-medium text-gray-600">
+            <p className="text-[13px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
@@ -32,11 +32,11 @@ const ExibitionMbl = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoCapacitor className="h-[40px] w-[40px] text-white" />
+              <IoLogoCapacitor className="h-[35px] w-[35px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-800">
+            <p className="text-[16px] sm:text-[18px] font-medium text-gray-800">
               Turkey Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-600">
@@ -47,11 +47,11 @@ const ExibitionMbl = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoFoursquare className="h-[40px] w-[40px] text-white" />
+              <IoLogoFoursquare className="h-[35px] w-[35px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-800">
+            <p className="text-[16px] sm:text-[18px] font-medium text-gray-800">
               Japan Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-600">
@@ -62,11 +62,11 @@ const ExibitionMbl = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoStackoverflow className="h-[40px] w-[40px] text-white" />
+              <IoLogoStackoverflow className="h-[35px] w-[35px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-800">
+            <p className="text-[16px] sm:text-[18px] font-medium text-gray-800">
               Brazile Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-600">
@@ -77,11 +77,11 @@ const ExibitionMbl = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <PiDropboxLogoBold className="h-[40px] w-[40px] text-white" />
+              <PiDropboxLogoBold className="h-[35px] w-[35px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-800">
+            <p className="text-[16px] sm:text-[18px] font-medium text-gray-800">
               Australia Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-600">

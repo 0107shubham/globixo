@@ -24,7 +24,7 @@ const ExibitionMbl = () => {
             <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
@@ -41,7 +41,7 @@ const ExibitionMbl = () => {
             <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
@@ -58,7 +58,7 @@ const ExibitionMbl = () => {
             <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
@@ -75,7 +75,7 @@ const ExibitionMbl = () => {
             <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>

@@ -18,7 +18,7 @@ const Partner = () => {
             className="w-full aspect-video rounded-md mix-blend-darken"
           />
         </div>
-        <p className="text-center text-[18px] my-2 text-black font-normal">
+        <p className="text-center text-[16px] my-2  border-gray-600  font-normal">
           Gourment Heaven Food
         </p>
         <div className="bg-gray-300  p-4 rounded-md border border-gray-400">
@@ -28,7 +28,7 @@ const Partner = () => {
             className="w-full aspect-video rounded-md mix-blend-darken"
           />
         </div>
-        <p className="text-center text-[18px] my-2 text-black font-normal">
+        <p className="text-center text-[16px] my-2  border-gray-600  font-normal">
           TasteQuest Creation
         </p>
         <div className="bg-gray-300 p-4 rounded-md border border-gray-400">
@@ -38,7 +38,7 @@ const Partner = () => {
             className="w-full aspect-video rounded-md mix-blend-darken"
           />
         </div>
-        <p className="text-center text-[18px] my-2 text-black font-normal">
+        <p className="text-center text-[16px] my-2  border-gray-600  font-normal">
           Freshness Delights
         </p>
         <div className="bg-gray-300 p-4 rounded-md border border-gray-400">
@@ -48,7 +48,7 @@ const Partner = () => {
             className="w-full aspect-video rounded-md mix-blend-darken"
           />
         </div>
-        <p className="text-center text-[18px] my-2 text-black font-normal">
+        <p className="text-center text-[16px] my-2 border-gray-600 font-normal">
           Flavour Scope Fusion
         </p>
       </div>

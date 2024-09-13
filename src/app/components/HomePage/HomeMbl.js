@@ -69,7 +69,7 @@ const HomeMbl = () => {
           </div>
         </div>
 
-        <button className=" bottom-2 border-gray-900 bg-purple-600 py-3   w-full md:w-[420px]">
+        <button className=" bottom-2 border-gray-900 bg-purple-600 py-3 rounded-md  w-full md:w-[420px]">
           Contact us
         </button>
       </div>

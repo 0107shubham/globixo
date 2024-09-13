@@ -25,7 +25,7 @@ const Content = () => {
         <Member />
       </div>
 
-      <div className="xl:hidden px-2">
+      <div className="xl:hidden ">
         {" "}
         <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 py-2">
           <ContactCard />

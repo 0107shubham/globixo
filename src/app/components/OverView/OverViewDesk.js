@@ -2,7 +2,7 @@ import React from "react";
 
 const OverViewDesk = () => {
   return (
-    <div className="py-4  px-5    hidden xl:block  w-[50vw] mx-10 gap-5  ">
+    <div className="py-4  px-5    hidden xl:block  w-full   gap-5  ">
       <h1 className="text-[24px] text-black font-bold my-3">
         Company Onerview
       </h1>

@@ -14,30 +14,42 @@ const ContactCardMbl = () => {
         </h2>
 
         {/* Name */}
-        <p className="text-gray-700  text-[15px]  font-semibold">Name:</p>
-        <p className="text-gray-400  text-[13px] ">John Doe</p>
+        <p className="text-gray-700  text-[15px]  sm:text-[18px]    font-semibold">
+          Name:
+        </p>
+        <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-400">
+          John Doe
+        </p>
 
         {/* Email */}
-        <p className="text-gray-700  text-[15px]  font-semibold mt-4">Email:</p>
-        <p className="text-gray-400 text-[13px]  mt-1">johndoe@email.com</p>
+        <p className="text-gray-700  text-[15px]  sm:text-[18px]   font-semibold mt-4">
+          Email:
+        </p>
+        <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-400  mt-1">
+          johndoe@email.com
+        </p>
 
         {/* Phone */}
-        <p className="text-gray-700  text-[15px]  font-semibold mt-4">Phone:</p>
-        <p className="text-gray-400 text-[13px]  mt-1">+123 456 7890</p>
+        <p className="text-gray-700  text-[15px]  sm:text-[18px]    font-semibold mt-4">
+          Phone:
+        </p>
+        <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-400 mt-1">
+          +123 456 7890
+        </p>
 
         {/* Address */}
-        <p className="text-gray-700  text-[15px]  font-semibold mt-4">
+        <p className="text-gray-700  text-[15px]  sm:text-[18px]   font-semibold mt-4">
           Address:
         </p>
-        <p className="text-gray-400 text-[13px]  mt-1">
+        <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-400  mt-1">
           123 Main St, Suite 456, New York, NY 10001, United States
         </p>
 
         {/* Website */}
-        <p className="text-gray-700  text-[15px]  font-semibold mt-8">
+        <p className="text-gray-700  text-[15px]  sm:text-[18px]    font-semibold mt-8">
           Website:
         </p>
-        <p className="text-gray-400 mt-1 text-[13px] ">
+        <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-400 mt-1">
           <a
             href="https://zelonihire.com"
             target="_blank"
@@ -49,7 +61,7 @@ const ContactCardMbl = () => {
         </p>
 
         {/* Social Media */}
-        <p className="text-gray-700  text-[15px]   font-semibold mt-8">
+        <p className="text-gray-700  text-[15px] sm:text-[18px]  font-semibold mt-8">
           Social:
         </p>
         <div className="flex justify-start mt-4 space-x-4">

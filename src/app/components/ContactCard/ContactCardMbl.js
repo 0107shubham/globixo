@@ -9,7 +9,7 @@ const ContactCardMbl = () => {
       {/* Left Side - Labels */}
       <div className="pr-4 w-full">
         {/* Full width heading in black */}
-        <h2 className="text-black text-[20px] font-bold mb-4 w-full">
+        <h2 className="text-[24px] font-bold my-3 mb-4 w-full">
           Contact Information
         </h2>
 

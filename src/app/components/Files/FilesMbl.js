@@ -43,7 +43,7 @@ const FilesMbl = () => {
         </div>
       </div>
       <div className=" mt-3">
-        <p className="text-purple-500 text-[24px] underline text-center cursor-pointer">
+        <p className="text-purple-500 text-[20px] underline text-center cursor-pointer">
           See All
         </p>
       </div>

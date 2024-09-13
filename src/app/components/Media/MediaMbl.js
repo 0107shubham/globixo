@@ -28,7 +28,7 @@ const MediaMbl = () => {
         <Image src={fp2} alt={fp2} className="w-full aspect-video" />
       </div>
 
-      <div className="">
+      <div className="mt-3">
         <p className="text-purple-500 text-[24px] underline text-center cursor-pointer">
           See All
         </p>

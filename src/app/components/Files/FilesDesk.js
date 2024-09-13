@@ -41,7 +41,7 @@ const FilesDesk = () => {
           </p>
         </div>
       </div>
-      <div className="">
+      <div className="mt-3">
         <p className="text-purple-500 text-[24px] underline text-center cursor-pointer">
           See All
         </p>

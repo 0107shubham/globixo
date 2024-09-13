@@ -4,7 +4,7 @@ const OverViewDesk = () => {
   return (
     <div className="py-4  px-5    hidden xl:block  w-full   gap-5  ">
       <h1 className="text-[24px] text-black font-bold my-3">
-        Company Onerview
+        Company Overview
       </h1>
 
       <p className="text-gray-500  text-[16px]   font-semibold mt-2">

@@ -4,7 +4,7 @@ const OverViewMbl = () => {
   return (
     <div className="bg-white rounded-md px-4 py-3 xl:hidden  gap-5 ">
       <h1 className="text-[24px] text-black font-bold my-3">
-        Company Onerview
+        Company Overview
       </h1>
 
       <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600 mt-2">

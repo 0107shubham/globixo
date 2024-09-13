@@ -13,86 +13,78 @@ const ExibitionMbl = () => {
       <h1 className="text-[24px] text-black font-bold my-3">
         Zeloni Past Exibitions
       </h1>
-      <div className="flex flex-col gap-6 lg:gap-10">
+      <div className="flex flex-col gap-6">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
+              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-800">
+            <p className="text-[18px] font-semibold text-gray-800">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-600">
+            <p className="text-[14px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
-      </div>
-      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
+              <IoLogoCapacitor className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-800">
-              Saoudi Food Expo{" "}
+            <p className="text-[18px] font-semibold text-gray-800">
+              Turkey Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-600">
+            <p className="text-[14px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
-      </div>
-      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
+              <IoLogoFoursquare className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-800">
-              Saoudi Food Expo{" "}
+            <p className="text-[18px] font-semibold text-gray-800">
+              Japan Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-600">
+            <p className="text-[14px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
-      </div>
-      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
+              <IoLogoStackoverflow className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-800">
-              Saoudi Food Expo{" "}
+            <p className="text-[18px] font-semibold text-gray-800">
+              Brazile Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-600">
+            <p className="text-[14px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
-      </div>
-      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
+              <PiDropboxLogoBold className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-800">
-              Saoudi Food Expo{" "}
+            <p className="text-[18px] font-semibold text-gray-800">
+              Australia Food Expo{" "}
             </p>
-            <p className="text-[12px] font-medium text-gray-400">
+            <p className="text-[14px] font-medium text-gray-600">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>

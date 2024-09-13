@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const FilesDesk = () => {
   return (
-    <div className="bg-white px-4 hidden xl:block py-3 rounded-md">
+    <div className="bg-white  hidden xl:block py-4  px-5  rounded-md">
       <p className="text-[24px] text-black font-bold my-3">Files</p>
       <div className="flex justify-between gap-5 ">
         <div className="bg-white p-4 rounded-md border border-gray-400">

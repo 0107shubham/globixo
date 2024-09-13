@@ -7,7 +7,7 @@ import dynamic from "next/dynamic";
 
 const MediaDesk = () => {
   return (
-    <div className="bg-white px-4 py-3 hidden xl:block rounded-md ">
+    <div className="bg-white py-4  px-5 hidden xl:block rounded-md ">
       <p className="text-[24px] text-black font-bold my-3">Video and Images</p>
       <div className="flex flex-col   gap-5">
         <div className="flex gap-5 w-full justify-center ">

@@ -3,8 +3,8 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const ContactCardDesk = () => {
   return (
-    <div className="hidden xl:block max-w-lg mx-auto bg-white shadow-lg rounded-lg overflow-hidden border border-gray-200 p-6 relative bottom-10 z-50">
-      {/* Card Content */}
+    <div className="hidden xl:block max-w-lg mx-auto  py-4  px-5  bg-white shadow-lg rounded-lg overflow-hidden border border-gray-200 p-6 relative bottom-10 z-50">
+      <h1 className="text-[24px] font-bold my-3">Exibitor Contact</h1>
       <div className="flex">
         {/* Left Side - Labels */}
         <div className="w-1/2 pr-4">

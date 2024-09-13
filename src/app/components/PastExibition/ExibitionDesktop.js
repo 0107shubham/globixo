@@ -9,8 +9,8 @@ import Image from "next/image";
 
 const ExibitionDesktop = () => {
   return (
-    <div className="bg-white hidden xl:flex flex-col gap-6 rounded-md">
-      <h1>Zeloni Past Exibitions</h1>
+    <div className="bg-white  py-4  px-5  hidden xl:flex flex-col gap-6 rounded-md">
+      <h1 className="text-[24px] font-bold my-3">Zeloni Past Exibitions</h1>
       <div className="flex flex-col gap-6">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
@@ -30,12 +30,12 @@ const ExibitionDesktop = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoCapacitor className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
             <p className="text-[18px] font-semibold text-gray-700">
-              Saoudi Food Expo{" "}
+              Turkey Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
@@ -45,12 +45,12 @@ const ExibitionDesktop = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoFoursquare className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
             <p className="text-[18px] font-semibold text-gray-700">
-              Saoudi Food Expo{" "}
+              Japan Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
@@ -60,12 +60,12 @@ const ExibitionDesktop = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoStackoverflow className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
             <p className="text-[18px] font-semibold text-gray-700">
-              Saoudi Food Expo{" "}
+              Brazile Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
@@ -75,12 +75,12 @@ const ExibitionDesktop = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <PiDropboxLogoBold className="h-[40px] w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
             <p className="text-[18px] font-semibold text-gray-700">
-              Saoudi Food Expo{" "}
+              Australia Food Expo{" "}
             </p>
             <p className="text-[14px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024

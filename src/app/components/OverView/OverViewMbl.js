@@ -2,7 +2,7 @@ import React from "react";
 
 const OverViewMbl = () => {
   return (
-    <div className="py-4 px-5 m-4 bg-white xl:hidden  mx-10 gap-5 ">
+    <div className="py-2 px-1 m-4 bg-white xl:hidden  mx-2 gap-5 ">
       <h1 className="text-[24px] text-black font-bold my-3">
         Company Onerview
       </h1>

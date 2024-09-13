@@ -17,74 +17,82 @@ const ExibitionMbl = () => {
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[14px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
+      </div>
+      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[14px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
+      </div>
+      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[14px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
+      </div>
+      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[14px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>
         </div>
+      </div>
+      <div className="flex flex-col gap-6 lg:gap-10">
         <div className="flex gap-5 px-3">
           <div className="bg-slate-600 p-2 rounded-full w-fit bg-blend-multiply">
             <p>
-              <IoLogoAmplify className="h-[40px] w-[40px] text-white" />
+              <IoLogoAmplify className="h-[30px] md:h-[40px] w-[30px] md:w-[40px] text-white" />
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[18px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-700">
               Saoudi Food Expo{" "}
             </p>
-            <p className="text-[14px] font-medium text-gray-400">
+            <p className="text-[12px] font-medium text-gray-400">
               12th Jul 2024 - 15th July,2024
             </p>
           </div>

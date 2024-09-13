@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const ContactCardMbl = () => {
   return (
-    <div className="w-full  lg:h-[600px] xl:hidden     p-6">
+    <div className="w-full  lg:h-[600px] xl:hidden   bg-white  p-6">
       {/* Card Content */}
 
       {/* Left Side - Labels */}
@@ -35,12 +35,12 @@ const ContactCardMbl = () => {
         <p className="text-gray-800 font-semibold mt-8">Website:</p>
         <p className="text-gray-600 mt-1">
           <a
-            href="https://johndoewebsite.com"
+            href="https://zelonihire.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 hover:underline"
           >
-            www.johndoewebsite.com
+            www.zelonihire.com.com
           </a>
         </p>
 

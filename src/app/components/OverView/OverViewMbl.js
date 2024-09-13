@@ -7,18 +7,17 @@ const OverViewMbl = () => {
         Company Onerview
       </h1>
 
-      <p>
-        Anim adipisicing eu velit cupidatat minim veniam culpa velit qui labore
-        quis id adipisicing. Qui adipisicing excepteur laboris est sit excepteur
-        irure elit sint culpa. Voluptate ipsum culpa minim excepteur id in
-        proident cupidatat officia ad Lorem pariatur. Amet amet velit proident
-        esse officia pariatur amet et voluptate nostrud.
-      </p>
-
-      <p className="mt-4">
-        Est quis dolore commodo minim et voluptate amet consequat sit minim.
-        Dolor quis consequat tempor ex laborum minim. Laboris tempor consectetur
-        dolor aute eu.
+      <p className="text-gray-500  text-[13px]   font-semibold mt-2">
+        Globixo is a renowned company dedicated to organizing world-class food
+        exhibitions that bring together culinary professionals, food producers,
+        and enthusiasts from various regions. These exhibitions showcase an
+        array of diverse flavors, innovative food products, and cutting-edge
+        technologies in the food industry.
+        <br />
+        <br />
+        By highlighting the latest trends and innovations, Globixo plays a
+        pivotal role in promoting cultural exchange and sustainability within
+        the food sector.
       </p>
     </div>
   );

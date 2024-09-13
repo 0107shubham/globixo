@@ -71,7 +71,7 @@ const DesktopView = () => {
           </div>
         </div>
 
-        <button className=" bottom-2 border-gray-900 rounded-md bg-purple-600 py-3 w-[420px]">
+        <button className=" bottom-2 border-gray-900 rounded-md  text-[20px]  bg-purple-600 py-3 w-[420px]">
           Contact us
         </button>
       </div>

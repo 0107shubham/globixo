@@ -7,7 +7,7 @@ const OverViewMbl = () => {
         Company Onerview
       </h1>
 
-      <p className="text-gray-500  text-[13px]   font-semibold mt-2">
+      <p className="text-gray-500  text-[13px]   font-normal mt-2">
         Globixo is a renowned company dedicated to organizing world-class food
         exhibitions that bring together culinary professionals, food producers,
         and enthusiasts from various regions. These exhibitions showcase an

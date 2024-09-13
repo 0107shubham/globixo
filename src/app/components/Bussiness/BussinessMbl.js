@@ -2,7 +2,7 @@ import React from "react";
 
 const BussinesMbl = () => {
   return (
-    <div className="py-4 px-5 w-full lg:h-[600px] xl:hidden     flex flex-col gap-1">
+    <div className="bg-white rounded-md px-4 py-3 w-full lg:h-[600px] xl:hidden     flex flex-col gap-1">
       <p className="text-[24px] font-bold  my-3">Company Bussiness</p>
       <p className="my-2 text-gray-800  font-semibold text-[20px]">
         Company Type

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const FilesMbl = () => {
   return (
-    <div className="bg-white px-4 py-3 rounded-md xl:hidden">
+    <div className="bg-white rounded-md px-4 py-3 xl:hidden">
       <p className="text-[24px] text-black font-bold my-3">Files</p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 ">
         <div className="bg-white p-4 rounded-md border border-gray-400">

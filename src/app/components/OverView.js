@@ -4,7 +4,7 @@ import OverViewMbl from "./OverView/OverViewMbl";
 
 const OverView = () => {
   return (
-    <div className="bg-white rounded-xl  xl:my-5 xl:mx-10    ">
+    <div className="bg-white   xl:my-5 xl:mx-10    ">
       <OverViewDesk />
       <OverViewMbl />
     </div>

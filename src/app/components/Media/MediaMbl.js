@@ -7,7 +7,7 @@ import dynamic from "next/dynamic";
 
 const MediaMbl = () => {
   return (
-    <div className="bg-white xl:hidden  rounded-md lg:h-[450px] py-4 px-5 ">
+    <div className=" xl:hidden  lg:h-[450px] bg-white rounded-md px-4 py-3 ">
       <p className="text-[24px] text-black font-bold my-3">Video and Images</p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 ">
         <div className=" w-full aspect-video h-[300px] md:h-full ">

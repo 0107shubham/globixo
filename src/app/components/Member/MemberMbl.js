@@ -9,7 +9,7 @@ import { MdOutlineMail } from "react-icons/md";
 
 const MemberMbl = () => {
   return (
-    <div className="bg-white mt-5 px-4 py-5 rounded-lg xl:hidden">
+    <div className="bg-white rounded-md px-4 py-3 xl:hidden">
       <h1 className="text-[24px] font-bold my-3">Members</h1>
       <div className="grid grid-cols-1 md:grid-cols-2  gap-5">
         <div className="flex flex-col border-[1px] shadow-lg max-w-[450px]  border-gray-300 px-3 py-2 rounded-md gap-3">

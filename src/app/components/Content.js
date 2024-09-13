@@ -11,7 +11,7 @@ import Partner from "./Partner";
 
 const Content = () => {
   return (
-    <div className="xl:px-[6vw] bg-purple-300 xl:flex xl:gap-10">
+    <div className="xl:px-[6vw] bg-purple-400 xl:flex xl:gap-10">
       <div className="hidden xl:block">
         {" "}
         <Bussiness />
@@ -25,24 +25,24 @@ const Content = () => {
         <Member />
       </div>
 
-      <div className="xl:hidden">
+      <div className="xl:hidden px-2">
         {" "}
-        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-5 my-2">
+        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 py-2">
           <ContactCard />
           <Bussiness />
         </div>
-        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-5 my-2 ">
+        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 my-1 ">
           <OverView />
           <Media />
         </div>
-        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-5 my-2 ">
-          {/* <Files /> */}
+        <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2  my-1">
+          <Files />
           <Exibition />
         </div>
-        <div className="w-full grid grid-cols-1   my-2 ">
+        <div className="w-full grid grid-cols-1    my-1 ">
           <Member />
         </div>
-        <div className="w-full grid grid-cols-1   my-2 ">
+        <div className="w-full grid grid-cols-1   my-1 ">
           <Partner />
         </div>
       </div>

@@ -3,13 +3,13 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const ContactCardMbl = () => {
   return (
-    <div className="w-full  lg:h-[600px] xl:hidden   bg-white  p-6">
+    <div className="w-full  lg:h-[600px] xl:hidden   bg-white rounded-md px-4 py-3">
       {/* Card Content */}
 
       {/* Left Side - Labels */}
       <div className="pr-4 w-full">
         {/* Full width heading in black */}
-        <h2 className="text-[24px] font-bold my-3 mb-4 w-full">
+        <h2 className="text-[24px] font-bold my-3 mb-2 w-full">
           Contact Information
         </h2>
 
@@ -22,7 +22,7 @@ const ContactCardMbl = () => {
         </p>
 
         {/* Email */}
-        <p className="text-gray-800  text-[15px]  sm:text-[18px]   font-semibold mt-4">
+        <p className="text-gray-800  text-[15px]  sm:text-[18px]   font-semibold mt-2">
           Email:
         </p>
         <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600  mt-1">
@@ -30,7 +30,7 @@ const ContactCardMbl = () => {
         </p>
 
         {/* Phone */}
-        <p className="text-gray-800  text-[15px]  sm:text-[18px]    font-semibold mt-4">
+        <p className="text-gray-800  text-[15px]  sm:text-[18px]    font-semibold mt-2">
           Phone:
         </p>
         <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600 mt-1">
@@ -38,7 +38,7 @@ const ContactCardMbl = () => {
         </p>
 
         {/* Address */}
-        <p className="text-gray-800  text-[15px]  sm:text-[18px]   font-semibold mt-4">
+        <p className="text-gray-800  text-[15px]  sm:text-[18px]   font-semibold mt-2">
           Address:
         </p>
         <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600  mt-1">
@@ -46,7 +46,7 @@ const ContactCardMbl = () => {
         </p>
 
         {/* Website */}
-        <p className="text-gray-800  text-[15px]  sm:text-[18px]    font-semibold mt-8">
+        <p className="text-gray-800  text-[15px]  sm:text-[18px]    font-semibold mt-3">
           Website:
         </p>
         <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600 mt-1">
@@ -61,7 +61,7 @@ const ContactCardMbl = () => {
         </p>
 
         {/* Social Media */}
-        <p className="text-gray-800  text-[15px] sm:text-[18px]  font-semibold mt-8">
+        <p className="text-gray-800  text-[15px] sm:text-[18px]  font-semibold mt-3">
           Social:
         </p>
         <div className="flex justify-start mt-4 space-x-4">

@@ -1,6 +1,8 @@
 import React from "react";
 import Image from "next/image";
 import men1 from "../../Assetes/men1.jpeg";
+import men2 from "../../Assetes/men2.jpeg";
+import men3 from "../../Assetes/men3.jpeg";
 import { FaPhone } from "react-icons/fa6";
 import { MdOutlineMail } from "react-icons/md";
 
@@ -44,8 +46,8 @@ const MemberDesk = () => {
           <div className="flex gap-3 ">
             <div>
               <Image
-                src={men1}
-                alt={men1}
+                src={men3}
+                alt={men3}
                 className="h-[60px] w-[60px] rounded-full"
               />{" "}
             </div>
@@ -75,8 +77,8 @@ const MemberDesk = () => {
           <div className="flex gap-3 ">
             <div>
               <Image
-                src={men1}
-                alt={men1}
+                src={men2}
+                alt={men2}
                 className="h-[60px] w-[60px] rounded-full"
               />{" "}
             </div>

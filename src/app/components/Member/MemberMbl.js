@@ -23,7 +23,7 @@ const MemberMbl = () => {
             </div>
 
             <div className="flex flex-col  ">
-              <p className="text-[16px] sm:text-[18px] font-semibold text-gray-700">
+              <p className="text-[16px] sm:text-[18px] font-semibold text-gray-800">
                 Aditi Sharma
               </p>
               <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600">
@@ -58,7 +58,7 @@ const MemberMbl = () => {
             </div>
 
             <div className="flex flex-col  ">
-              <p className="text-[16px] sm:text-[18px] font-semibold text-gray-700">
+              <p className="text-[16px] sm:text-[18px] font-semibold text-gray-800">
                 Aditi Sharma
               </p>
               <p className="text-[13px] sm:text-[16px] font-normal  text-gray-600">
@@ -93,7 +93,7 @@ const MemberMbl = () => {
             </div>
 
             <div className="flex flex-col  ">
-              <p className="text-[16px] sm:text-[18px] font-semibold text-gray-700">
+              <p className="text-[16px] sm:text-[18px] font-semibold text-gray-800">
                 Aditi Sharma
               </p>
               <p className="text-[13px] sm:text-[16px]  font-normal  text-gray-600">

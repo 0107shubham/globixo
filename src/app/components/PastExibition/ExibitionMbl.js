@@ -21,7 +21,7 @@ const ExibitionMbl = () => {
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-800">
               Saoudi Food Expo{" "}
             </p>
             <p className="text-[12px] font-medium text-gray-600">
@@ -38,7 +38,7 @@ const ExibitionMbl = () => {
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-800">
               Saoudi Food Expo{" "}
             </p>
             <p className="text-[12px] font-medium text-gray-600">
@@ -55,7 +55,7 @@ const ExibitionMbl = () => {
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-800">
               Saoudi Food Expo{" "}
             </p>
             <p className="text-[12px] font-medium text-gray-600">
@@ -72,7 +72,7 @@ const ExibitionMbl = () => {
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-800">
               Saoudi Food Expo{" "}
             </p>
             <p className="text-[12px] font-medium text-gray-600">
@@ -89,7 +89,7 @@ const ExibitionMbl = () => {
             </p>
           </div>
           <div className="flex flex-col gap-[2px]">
-            <p className="text-[16px] font-semibold text-gray-700">
+            <p className="text-[16px] font-semibold text-gray-800">
               Saoudi Food Expo{" "}
             </p>
             <p className="text-[12px] font-medium text-gray-400">

@@ -4,7 +4,7 @@ const BussinesMbl = () => {
   return (
     <div className="py-4 px-5 w-full lg:h-[600px] xl:hidden     flex flex-col gap-1">
       <p className="text-[24px] font-bold  my-3">Company Bussiness</p>
-      <p className="my-2 text-gray-700  font-semibold text-[20px]">
+      <p className="my-2 text-gray-800  font-semibold text-[20px]">
         Company Type
       </p>
       <div className="flex gap-4 my-3 flex-wrap">
@@ -24,7 +24,7 @@ const BussinesMbl = () => {
           </p>
         </div>
       </div>
-      <p className="my-2 text-gray-700  font-semibold text-[20px]">
+      <p className="my-2 text-gray-800  font-semibold text-[20px]">
         Product Categories
       </p>
 
@@ -55,7 +55,7 @@ const BussinesMbl = () => {
           </p>
         </div>
       </div>
-      <p className="my-2 text-gray-700 font-semibold text-[20px]">
+      <p className="my-2 text-gray-800 font-semibold text-[20px]">
         Product Items
       </p>
 
